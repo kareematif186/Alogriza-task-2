@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+##Application features :
+----------------------------
+1-Add, Delete, and Edit any task you want.
+2-reminder notification for each task
+3- calendar.
+4- Support light and dark mode.
 
-A few resources to get you started if this is your first Flutter project:
+The app is built with GetX , SQLite, and local notifications.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### screen shots
+
+![finalllllllllllllllll](https://user-images.githubusercontent.com/88941146/181426285-ee08d5a0-34bf-4406-aa9a-8fbd5f5b2da1.PNG)
