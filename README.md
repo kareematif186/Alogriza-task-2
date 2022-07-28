@@ -6,8 +6,12 @@ A new Flutter project.
 ##Application features :
 ----------------------------
 1-Add, Delete, and Edit any task you want.
+
 2-reminder notification for each task
+
 3- calendar.
+
+
 4- Support light and dark mode.
 
 The app is built with GetX , SQLite, and local notifications.
