@@ -16,3 +16,8 @@ The app is built with GetX , SQLite, and local notifications.
 ### screen shots
 
 ![finalllllllllllllllll](https://user-images.githubusercontent.com/88941146/181426285-ee08d5a0-34bf-4406-aa9a-8fbd5f5b2da1.PNG)
+
+
+###Gif
+
+![scrcpy_918khrSr3e](https://user-images.githubusercontent.com/88941146/181428668-abdccb5a-1ace-4c2d-848a-52975d555705.gif)
